@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PE5 {
+public class Pe5 {
 	
 	
 

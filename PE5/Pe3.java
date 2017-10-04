@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.logging.Logger;
-public class PE3 {
+public class Pe3 {
 
 public interface Selector {
 	public void end(int a);

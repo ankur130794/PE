@@ -10,7 +10,7 @@ class InvalidStringException extends Exception{
 
 }
 
-public class question3 {
+public class Question3 {
 	
 	static void val(String str)throws InvalidStringException{  
 	      if(str.length()<=5) {

@@ -8,7 +8,7 @@
         this.string = string;
     }
 }
-public class question1 {
+public class Question1 {
     private class Inner{
         String s;
         public Inner() {
@@ -18,13 +18,13 @@ public class question1 {
         }
             
     }
-    private question1.Inner getInnerobject(){
-        question1.Inner inner = new Inner();
+    private Question1.Inner getInnerobject(){
+        Question1.Inner inner = new Inner();
         return inner;
     }
     
     public static void main(String[] args) {
-        question1 ob = new question1();
+        Question1 ob = new Question1();
         Inner in = ob.getInnerobject();
         System.out.println(in.s);
     }

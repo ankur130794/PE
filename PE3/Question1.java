@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class question1 {
+public class Question1 {
 	
 	public static class StudentMarks{
 		static int numofstudents;

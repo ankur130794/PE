@@ -1,7 +1,7 @@
 import java.util.regex.Pattern;  
 import java.util.Scanner;  
 import java.util.regex.Matcher;    
-public class question5{    
+public class Question5{    
   public static void main(String[] args){    
       Scanner sc=new Scanner(System.in);  
       while (true) {    

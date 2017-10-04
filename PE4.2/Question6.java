@@ -2,7 +2,7 @@
 
 import java.util.regex.*;
 import java.util.*;
-public class question6 {
+public class Question6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter String : ");

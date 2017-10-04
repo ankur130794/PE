@@ -1,5 +1,5 @@
 
-public class PE4 {
+public class Pe4 {
 
 	public static class PalmOuter{
 		Hand doThis() {

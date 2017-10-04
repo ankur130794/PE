@@ -2,7 +2,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-public class question3 {
+public class Question3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
